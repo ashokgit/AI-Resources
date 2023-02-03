@@ -8,6 +8,7 @@ Collection of AI and ML resources and Startups
 ## Text to Image
 
 - Huggingface Stable Diffusion v1-5 Demo https://huggingface.co/spaces/runwayml/stable-diffusion-v1-5
+- Instruct Pix2Pix : https://huggingface.co/timbrooks/instruct-pix2pix
 
 ## Text to Music
 
