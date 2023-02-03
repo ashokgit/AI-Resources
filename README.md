@@ -22,3 +22,7 @@ Collection of AI and ML resources and Startups
 ## Text to Image to Music to Video
 
 - HuggingFace Space : https://huggingface.co/spaces/DGSpitzer/TXT-2-IMG-2-MUSIC-2-VIDEO-w-RIFFUSION
+
+## Text to video
+
+- Video Diffussion : https://video-diffusion.github.io/
