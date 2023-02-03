@@ -5,6 +5,10 @@ Collection of AI and ML resources and Startups
 
 - Resemble AI : Generative Voice AI Toolkit https://www.resemble.ai/
 
+## Text to Speech
+
+- Speech Brain https://speechbrain.github.io/
+
 ## Text to Image
 
 - Huggingface Stable Diffusion v1-5 Demo https://huggingface.co/spaces/runwayml/stable-diffusion-v1-5
