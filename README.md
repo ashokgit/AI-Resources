@@ -26,3 +26,7 @@ Collection of AI and ML resources and Startups
 ## Text to video
 
 - Video Diffussion : https://video-diffusion.github.io/
+
+## Other important models
+
+- https://github.com/civitai/civitai/wiki/How-to-use-models#fine-tuned-model-checkpoints-dreambooth-models
