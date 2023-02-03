@@ -31,3 +31,4 @@ Collection of AI and ML resources and Startups
 
 - https://github.com/civitai/civitai/wiki/How-to-use-models#fine-tuned-model-checkpoints-dreambooth-models
 - https://civitai.com/
+- https://github.com/huggingface/diffusers/blob/main/README.md
