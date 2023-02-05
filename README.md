@@ -36,3 +36,4 @@ Collection of AI and ML resources and Startups
 - https://github.com/huggingface/diffusers/blob/main/README.md
 - https://revoicer.com/
 - https://open-assistant.io/
+- https://www.reddit.com/r/StableDiffusion/comments/zv5mbq/simple_trick_i_use_to_get_consistent_characters/
