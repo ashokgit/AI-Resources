@@ -8,6 +8,7 @@ Collection of AI and ML resources and Startups
 ## Text to Speech
 
 - Speech Brain https://speechbrain.github.io/
+- https://stackoverflow.com/questions/66726331/how-can-i-run-mozilla-tts-coqui-tts-training-with-cuda-on-a-windows-system
 
 ## Text to Image
 
