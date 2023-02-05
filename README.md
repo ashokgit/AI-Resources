@@ -14,6 +14,7 @@ Collection of AI and ML resources and Startups
 - Huggingface Stable Diffusion v1-5 Demo https://huggingface.co/spaces/runwayml/stable-diffusion-v1-5
 - Instruct Pix2Pix : https://huggingface.co/timbrooks/instruct-pix2pix
 - WEB-UI https://github.com/AUTOMATIC1111/stable-diffusion-webui
+- https://github.com/LuChengTHU/dpm-solver
 
 ## Text to Music
 
