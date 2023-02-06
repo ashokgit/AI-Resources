@@ -42,3 +42,4 @@ Collection of AI and ML resources and Startups
 - https://www.youtube.com/watch?v=6QAGk_rHipE
 - https://huggingface.co/spaces/vumichien/lip_movement_reading
 - https://huggingface.co/spaces/OlaWod/FreeVC
+- https://huggingface.co/spaces/Omnibus/2-button-Story-Book
