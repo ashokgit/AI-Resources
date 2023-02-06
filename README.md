@@ -40,3 +40,4 @@ Collection of AI and ML resources and Startups
 - https://www.reddit.com/r/StableDiffusion/comments/zv5mbq/simple_trick_i_use_to_get_consistent_characters/
 - https://github.com/NVIDIA/NeMo
 - https://www.youtube.com/watch?v=6QAGk_rHipE
+- https://huggingface.co/spaces/vumichien/lip_movement_reading
