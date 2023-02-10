@@ -38,3 +38,6 @@ Not in particular order. I've just placed them as I kept on browsing and using t
 - <kuvshinov>
 - https://huggingface.co/sd-concepts-library/kuvshinov
   
+## kamon style on Stable Diffusion
+- https://huggingface.co/sd-concepts-library/kamon-style
+- <kamon-style>
