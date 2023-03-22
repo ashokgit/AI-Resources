@@ -44,3 +44,4 @@ Collection of AI and ML resources and Startups
 - https://huggingface.co/spaces/OlaWod/FreeVC
 - https://huggingface.co/spaces/Omnibus/2-button-Story-Book
 - https://cocktailpeanut.github.io/dalai/#/
+- https://github.com/mpaepper/content-chatbot
