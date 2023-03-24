@@ -46,3 +46,4 @@ Collection of AI and ML resources and Startups
 - https://cocktailpeanut.github.io/dalai/#/
 - https://github.com/mpaepper/content-chatbot
 - https://huggingface.co/spaces/Matthijs/speecht5-tts-demo/tree/main
+- https://d-id.com/
