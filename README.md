@@ -29,6 +29,7 @@ Collection of AI and ML resources and Startups
 ## Text to video
 
 - Video Diffussion : https://video-diffusion.github.io/
+- https://github.com/Picsart-AI-Research/Text2Video-Zero
 
 ## Other important models
 
